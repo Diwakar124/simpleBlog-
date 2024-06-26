@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(145, 242, 210);
+  margin: 20px;
+}
+
+.title {
+  text-align: center;
+  text-shadow: 5px 5px 10px white;
+  font-size: 7vh;
+}
+
+.title h1 {
+  text-align: center;
+}
+.title img {
+  width: 50%;
+  height: 50%;
+  margin-left: 10px;
+  display: inline-block;
+}
+.caption {
+  font-size: 17px;
+  font-family: Gill Sans;
+  color: black;
+}
+
+div.tribut-data {
+   background-color: rgba(47, 197, 177, 0.25); 
+   box-shadow: 20px 20px 20px rgb(8, 118, 102); 
+  font-family: Georgia;
+  padding: 25px 25px;
+  margin: 11px;
+  margin-top: 50px;
+}
+
+h1.title-apj {
+  font-size: 35px;
+  color: white;
+  text-align: center;
+  text-shadow: 5px 5px 10px black;
+}
+
+#tribute-link {
+  text-decoration: none;
+  color: black;
+}
